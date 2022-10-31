@@ -2,10 +2,10 @@
 Software Developer
 Navigation
 picture
-##introduction
+## introduction
 paragraph for introduction
-##about me
+## about me
 background 
-##contact
+## contact
 *LinkedIn
 *GitHub
