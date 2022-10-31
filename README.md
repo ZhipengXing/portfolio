@@ -7,5 +7,5 @@ paragraph for introduction
 ## about me
 background 
 ## contact
-*LinkedIn
-*GitHub
+* LinkedIn
+* GitHub
