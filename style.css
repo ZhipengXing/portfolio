@@ -1,29 +1,30 @@
+/*specifying body witdh and backgroudn color*/
 body {
     min-width: 350px;
     background-color: rgb(234, 255, 234)
   }
-  
-  header {
-    background-color: rgb(234, 255, 234);
+ 
+/*specifying header text position*/
+header {
     text-align: center;
   }
-  
-  footer {
-    text-align: center;
-      background-color: darkgray;
+
+/*specifying footer text position, margin, padding (left and right)*/  
+footer {
+      text-align: center;
       margin: 50px 0 0 0;
       padding-left: 200px;
       padding-right: 200px;
-      background-color: rgb(234, 255, 234);
   }
   
-  h1 {
+/*specifying h1 font family, color, padding and margin*/  
+h1 {
     font-family: sans-serif, 'Times New Roman';
     color: rgb(0, 0, 0);
     padding: 60px 0 20px 20px;
     margin: 0;
   }
-
+/*specifying h2 font family, text alignment, size, color, padding and margin*/  
   h2 {
     font-family: sans-serif, 'Times New Roman';
     text-align: center;
@@ -33,38 +34,47 @@ body {
     margin: 0;
   }
 
+/*specifying h3 font family and size*/  
   h3 {
     font-family: sans-serif, 'Times New Roman';
     font-size: 16px; 
   }
-  
+
+/*specifying main container padding*/   
   main {
     padding-left: 200px;
     padding-right: 200px;
   }
-  
+
+/*specifying main container padding*/   
 p {
     font-family: arial, 'Times New Roman';
 }
 
+/*specifying center class style*/ 
  .center {
     display: block;
     margin-left:auto;
     margin-right:auto;
  }
 
+/*specifying unordered list font family*/ 
  ul {
     font-family: sans-serif, 'Times New Roman';
  }
 
+/*specifying nav container font family*/ 
 nav {
     font-family: sans-serif, 'Times New Roman';
 
 }
 
+/*specifying image height*/ 
 img {
     height: auto;
 }
+
+/*specifying pseudo-classes color family*/ 
 a:link    { color: blue;  }
 a:visited { color: red;   }
 a:hover   { color: green; }
